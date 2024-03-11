@@ -11,4 +11,8 @@ Gathers information from:
 [ipinfo.io](https://ipinfo.io/)
 
 - - - - - - - - - - - - - -
+
+If an IP shows no results then it is a private address
+
+- - - - - - - - - - - - - -
 (cred to zyfo for helping)

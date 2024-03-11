@@ -8,8 +8,6 @@
 - - - - - - - - - - - - - - 
 Gathers information from:
 
-[ipconfig.io](https://ipconfig.io/)
-
 [ipinfo.io](https://ipinfo.io/)
 
 - - - - - - - - - - - - - -

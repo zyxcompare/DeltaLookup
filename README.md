@@ -11,3 +11,6 @@ Gathers information from:
 [ipconfig.io](https://ipconfig.io/)
 
 [ipinfo.io](https://ipinfo.io/)
+
+- - - - - - - - - - - - - -
+(cred to zyfo for helping)

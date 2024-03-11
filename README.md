@@ -12,7 +12,7 @@ Gathers information from:
 
 - - - - - - - - - - - - - -
 
-If an IP shows no results then it is a private address
+If an IP shows no results then it is a private address.
 
 - - - - - - - - - - - - - -
 (cred to zyfo for helping)

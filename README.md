@@ -6,6 +6,6 @@
 - - - - - - - - - - - - - - 
 Gathers information from:
 
-[ipconfig.io](https://ipconfig.io/)https://ipconfig.io/
+[ipconfig.io](https://ipconfig.io/)
 
-[ipinfo.io](https://ipinfo.io/)https://ipinfo.io/
+[ipinfo.io](https://ipinfo.io/)
